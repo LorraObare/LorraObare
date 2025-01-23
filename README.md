@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **learning Front-End Engineering**
 
-- 🌱 I’m currently learning **Frameworks, Front-End at ALX**
+- 🌱 I’m learning **Frameworks and Front-End Development at ALX**
 
-- 👯 I’m looking to collaborate on **Front end projects that challenge, me to think better!**
+- 👯 I’m looking to collaborate on **Front end projects that challenge me to think better!**
 
 - 🤝 I’m looking for help with **Web Development and Backend**
 
