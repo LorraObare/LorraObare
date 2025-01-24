@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,my name is Laura Obare</h1>
-<h3 align="center">A passionate Frontend developer from Nairobi, Kenya. I happen to be curious enough to bring my dreams to reality</h3>
+<h3 align="center">A passionate Frontend developer from Nairobi, Kenya. I happen to be curious enough to bring my dreams to reality!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorraobare&label=Profile%20views&color=0e75b6&style=flat" alt="lorraobare" /> </p>
 
