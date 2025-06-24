@@ -1,4 +1,4 @@
-🧠console.log("Let’s build something impactful together!");
+<h1>🧠console.log("Let’s build something impactful together!");</h1> 
 Hello world! I’m a Frontend Developer from Nairobi with big dreams and just enough curiosity to chase them through code.
 
 
